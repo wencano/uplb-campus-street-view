@@ -1,0 +1,20 @@
+
+.caption{
+	font-size: 12px;
+	text-align: center;
+	font-color: #FFF;
+}
+
+
+#logo {
+    border-radius: 50%;
+    height: 50px;
+    width: auto;
+    margin-right:5px;
+}
+
+#subheadings {
+	text-align: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
